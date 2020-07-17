@@ -6,7 +6,8 @@ My name is Håvard.
 
 ❤️ Love client side development
 
-🏥 Developing mobile apps for the Norwegian Health Care. 
+🏥 Developing mobile apps for the Norwegian Health Care.
+ 
 
 ### Experiences 🍰
 
