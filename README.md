@@ -14,8 +14,8 @@ My name is Håvard.
 
 - Mobile apps (Xamarin)
 - Desktop apps (wpf, uwp) 
-- Web (Razor, Blazor, Aurellia)
+- Web apps (Blazor, Razor, Aurellia)
 - Backend (ASP .NET Core)
-- CI/CD (Azure Devops, TeamCity, TFS, Octopus, AppCenter, MDM solutions)
+- CI/CD (Azure Devops, TeamCity, Team Foundation Service , Octopus, AppCenter, MDM solutions)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haavamoa)](https://github.com/anuraghazra/github-readme-stats)
