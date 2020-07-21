@@ -8,6 +8,7 @@ My name is Håvard.
 
 🏥 Developing mobile apps for the Norwegian Health Care.
  
+📃 [My blog](https://haavamoa.madethis.blog/) 
 
 ### Experiences 🍰
 
@@ -17,4 +18,4 @@ My name is Håvard.
 - Backend (ASP .NET Core)
 - CI/CD (Azure Devops, TeamCity, TFS, Octopus)
 
-[Blog](https://haavamoa.madethis.blog/) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haavamoa)](https://github.com/anuraghazra/github-readme-stats)
