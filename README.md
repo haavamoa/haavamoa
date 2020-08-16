@@ -8,7 +8,7 @@ My name is Håvard.
 
 🏥 [Developing IT solutions for the Norwegian Health Care.](https://www.dips.com/UK) 
  
-📃 [My blog](https://haavamoa.madethis.blog/) 
+📃 [I blog](https://haavamoa.madethis.blog/) 
 
 ### Experiences 🍰
 
