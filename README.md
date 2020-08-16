@@ -6,7 +6,7 @@ My name is Håvard.
 
 ❤️ Love client side development
 
-🏥 Developing mobile apps for the Norwegian Health Care.
+🏥 [Developing IT solutions for the Norwegian Health Care.](https://www.dips.com/UK) 
  
 📃 [My blog](https://haavamoa.madethis.blog/) 
 
